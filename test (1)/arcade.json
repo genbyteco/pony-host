@@ -1,0 +1,23 @@
+{
+	"name": "test",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "6it25b9o158",
+	"viewport-width": 480,
+	"viewport-height": 640,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "portrait",
+	"c2version": "244",
+	"c3version": "r440",
+	"ife": false,
+	"used-plugins": [
+		"Sprite",
+		"Button",
+		"Keyboard",
+		"Touch"
+	],
+	"used-behaviors": []
+}
